@@ -1,0 +1,1 @@
+export { Emitter, GenEmitterType } from './lib/Emitter'

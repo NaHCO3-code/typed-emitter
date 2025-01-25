@@ -1,0 +1,19 @@
+{
+  "name": "@dao3fun/typed-emitter",
+  "version": "1.0.0",
+  "description": "Typed Emitter",
+  "license": "MIT",
+  "author": "surfish",
+  "type": "commonjs",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "index.d.ts",
+    "README.md",
+    "lib/**/*"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "prepare": "tsc"
+  }
+}
