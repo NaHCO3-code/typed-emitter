@@ -4,7 +4,6 @@
   "description": "Typed Emitter",
   "license": "MIT",
   "author": "surfish",
-  "type": "commonjs",
   "main": "index.js",
   "files": [
     "index.js",
