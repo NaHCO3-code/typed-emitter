@@ -1,1 +1,1 @@
-export { Emitter, GenEmitterType } from './lib/Emitter'
+export { Emitter } from './lib/Emitter'
