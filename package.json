@@ -14,5 +14,8 @@
   "scripts": {
     "build": "tsc",
     "prepare": "tsc"
+  },
+  "dependencies": {
+    "typescript": "^5.9.2"
   }
 }
