@@ -1,1 +1,1 @@
-export { Emitter } from './lib/Emitter'
+export { Emitter, Listener } from './lib/Emitter'
